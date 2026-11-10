@@ -1,23 +1,42 @@
-# Dhanya MV | Portfolio
+# 🚀 Dhanya MV | Portfolio
 
-A static portfolio website (HTML, CSS and JavaScript only, no build step).
+<p align="center">
+
+**[🌐 VIEW LIVE PORTFOLIO](https://dhanya-24bcs035.github.io/Dhanya-24bcs035.portfolio/)**
+
+</p>
+
+A personal portfolio website showcasing my skills, projects, certifications and career journey.
+
+**Built With:** HTML, CSS and JavaScript.
+
+---
 
 ## Files
-- index.html: page content
-- style.css: design and layout
-- script.js: theme toggle, typing effect, certifications, contact form
-- assets/photo.jpg: profile photo
+- `index.html`: page content
+- `style.css`: design and layout
+- `script.js`: theme toggle, typing effect, certifications, contact form
+- `assets/photo.jpg`: profile photo
 
-## Run locally
-Open index.html in a browser. For a local server: `python -m http.server` and visit http://localhost:8000
+## Run Locally
+Open `index.html` in a browser.
 
-## Publish free on GitHub Pages
-1. Create a new GitHub repository (for example, portfolio).
+For a local server:
+```bash
+python -m http.server
+```
+Visit `http://localhost:8000`.
+
+## Publish Free on GitHub Pages
+1. Create a GitHub repository.
 2. Upload all files, keeping the assets folder.
-3. Go to Settings > Pages, choose the main branch and the / (root) folder, then Save.
-4. Your site appears at https://dhanya-24bcs035.github.io/portfolio/
+3. Go to Settings → Pages.
+4. Choose the `main` branch and `/ (root)` folder.
+5. Save your settings.
 
-## Where to edit
-- Text and links: index.html
-- Colours: the variables at the top of style.css
-- Certifications list: the `certs` object in script.js
+**Live Website:** [Dhanya MV Portfolio](https://dhanya-24bcs035.github.io/Dhanya-24bcs035.portfolio/)
+
+## Where to Edit
+- Text and links: `index.html`
+- Colours: variables at the top of `style.css`
+- Certifications list: the `certs` object in `script.js`
